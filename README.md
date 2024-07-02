@@ -23,7 +23,6 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ I have a Degree in Computer Science for Management;
 - 🌱 I’m currently learning NodeJS and PHP Laravel; 
 - 👨 I'm attending Master's Degree in Computer Science;
-- 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 
 - 📫 How to reach me: mattia.brullo@outlook.it;
