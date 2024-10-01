@@ -21,7 +21,6 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working at [BitAPP](https://github.com/bitapp-srl);
 - ⚡️ I have a Degree in Computer Science for Management;
-- 🌱 I’m currently learning NodeJS and PHP Laravel; 
 - 👨 I'm attending Master's Degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 
